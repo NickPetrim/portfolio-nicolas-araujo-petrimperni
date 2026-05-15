@@ -75,7 +75,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid. Sou ap
 ### 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/NickPetrim/portfolio-nicolas-petrimperni
+   git clone https://github.com/NickPetrim/portfolio-nicolas-petrimperni.git
    ```
 2. Entre na pasta:
    ```bash
