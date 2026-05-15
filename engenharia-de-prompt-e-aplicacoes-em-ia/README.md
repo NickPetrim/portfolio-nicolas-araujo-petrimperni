@@ -1,4 +1,4 @@
-# Gabriel de Assis Silva
+# Nicolas Petrimperni
 > Estudante de **Ciência da Computação** em **UNICID**.
 
 ---
