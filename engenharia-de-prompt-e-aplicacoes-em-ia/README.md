@@ -75,16 +75,13 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid. Sou ap
 ### 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Gabriel-Assis-Silva/portfolio-gabriel-de-assis-silva.git
+   git clone https://github.com/NickPetrim/portfolio-nicolas-petrimperni
    ```
 2. Entre na pasta:
    ```bash
-   cd portfolio-gabriel-de-assis-silva
+   cd portfolio-nicolas-petrimperni
    ```
 3. Acesse o diretório do projeto desejado e siga o README interno para dependências e execução:
-   - `/projeto-prototipagem-de-sistemas-computacionais/`
-   - `/projeto-interface-e-jornada-de-usuario/`
-   - `/projeto-programacao-de-computadores/`
    - `/projeto-engenharia-de-prompt-e-aplicacoes-em-ia/`
 4. Use os comandos conforme a tecnologia do projeto selecionado (os exemplos abaixo são ilustrativos; consulte o README de cada projeto para nomes de arquivos, flags e scripts exatos):
    - Python: `pip install -r requirements.txt`
