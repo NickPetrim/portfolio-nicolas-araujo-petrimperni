@@ -52,12 +52,12 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid. Sou ap
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | SM2 - Classificação Visual | Classificação de imagens com Teachable Machine. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/ddda40269dcf97cdd36ef4e07c52c8cb68bbdc5e/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm2-laboratorio-de-classificacao-visual">Ver Projeto</a> |
-| SM3 - Batalha de Modelos | Comparação estruturada entre modelos com prompts em XML. | <a href="">Ver Projeto</a> |
-| SM4 - Engenharia Reversa | Análise técnica de solução existente e abstração de arquitetura. | <a href="">Ver Projeto</a> |
-| SM5 - Do Clone ao MVP+ | Evolução de clone para proposta com diferenciais de produto. | <a href="">Ver Projeto</a> |
-| SM6 - Software + IA com Bubble | Prototipagem no-code com integração de IA. | <a href="">Ver Projeto</a> |
-| SM7 - App de Videoconferência | Aplicativo com Expo + Jitsi para teleatendimento veterinário. | <a href="">Ver Projeto</a> |
-| SM8 - Música & IA | Composição generativa com Gemini Gems e produção fonográfica no Suno AI. | <a href="">Ver Projeto</a> |
+| SM3 - Batalha de Modelos | Comparação estruturada entre modelos com prompts em XML. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm3-batalha-de-modelos-%26-engenharia-de-prompt(xml)">Ver Projeto</a> |
+| SM4 - Engenharia Reversa | Análise técnica de solução existente e abstração de arquitetura. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm4-engenharia-reversa">Ver Projeto</a> |
+| SM5 - Do Clone ao MVP+ | Evolução de clone para proposta com diferenciais de produto. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm5-do-clone-ao-produto-minimo-viavel(mvp%2B)">Ver Projeto</a> |
+| SM6 - Software + IA com Bubble | Prototipagem no-code com integração de IA. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm6-engenharia-de-software-e-ia-com-bubble.io">Ver Projeto</a> |
+| SM7 - App de Videoconferência | Aplicativo com Expo + Jitsi para teleatendimento veterinário. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm7-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e-jitsi">Ver Projeto</a> |
+| SM8 - Música & IA | Composição generativa com Gemini Gems e produção fonográfica no Suno AI. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/2fac709acaaee997b8a8ff78126730b202464794/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm8-composicao-musical-assistida-por-inteligencia-artificial">Ver Projeto</a> |
 
 
 ---
