@@ -51,7 +51,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Unicid. Sou ap
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM2 - Classificação Visual | Classificação de imagens com Teachable Machine. | <a href="">Ver Projeto</a> |
+| SM2 - Classificação Visual | Classificação de imagens com Teachable Machine. | <a href="https://github.com/NickPetrim/portfolio-nicolas-araujo-petrimperni/tree/ddda40269dcf97cdd36ef4e07c52c8cb68bbdc5e/engenharia-de-prompt-e-aplicacoes-em-ia/projeto-sm2-laboratorio-de-classificacao-visual">Ver Projeto</a> |
 | SM3 - Batalha de Modelos | Comparação estruturada entre modelos com prompts em XML. | <a href="">Ver Projeto</a> |
 | SM4 - Engenharia Reversa | Análise técnica de solução existente e abstração de arquitetura. | <a href="">Ver Projeto</a> |
 | SM5 - Do Clone ao MVP+ | Evolução de clone para proposta com diferenciais de produto. | <a href="">Ver Projeto</a> |
